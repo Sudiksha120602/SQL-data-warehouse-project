@@ -73,7 +73,7 @@ Through my academic projects and professional experiences in higher education an
 - ⚙️ Automating data cleaning and reporting workflows
 - 🧠 Exploring machine learning, AI, and LLM-based applications
 
-Currently, I’m continuing to expand my skills in **data engineering, cloud technologies, and AI/ML applications** while building projects that bridge analytics and real-world impact.
+Currently, I’m continuing to expand my skills in **data analytics, data engineering, cloud technologies** while building projects that bridge analytics and real-world impact.
 
 ### 🛠️ Technical Skills
 - **Languages:** Python, SQL
